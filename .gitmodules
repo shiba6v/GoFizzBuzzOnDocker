@@ -1,0 +1,3 @@
+[submodule "GoFizzBuzz"]
+	path = GoFizzBuzz
+	url = git@github.com:shiba6v/GoFizzBuzz.git
